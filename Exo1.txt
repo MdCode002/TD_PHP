@@ -1,0 +1,5 @@
+variable avec nom valide : 
+$mavar
+$var5
+$_mavar
+$__élément1
